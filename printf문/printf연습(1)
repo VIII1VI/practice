@@ -1,0 +1,5 @@
+#include <stdio.h>
+int main()
+{
+  printf("Practice!");//연습용 콘솔장비 출력 
+}
